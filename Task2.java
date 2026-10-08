@@ -16,6 +16,5 @@ public class Task2 {
         char d = 'd';
         String result = "H" + x + " " + w + zero + r + one + d + " " + y + " " + tof;
         System.out.println(result);
-        System.out.println("Git connection successfully!");
     }
 }
