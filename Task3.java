@@ -1,5 +1,5 @@
 /**
- * Task3 check if connected to git repo
+ * Task3
  * Class name Task3:
  * Change the variables in the first section, so that each if statement resolves as true.
  */
