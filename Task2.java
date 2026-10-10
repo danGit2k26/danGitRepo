@@ -11,10 +11,11 @@ public class Task2 {
         short one = 1;
         int x = 3110;
         float y = 2.0f;
-        char w = 'w';
-        char r = 'r';
-        char d = 'd';
-        String result = "H" + x + " " + w + zero + r + one + d + " " + y + " " + tof;
+        char w = 'w', r = 'r', d = 'd', h = 'H';
+        // char r = 'r';
+        // char d = 'd';
+        // char h = 'H';
+        String result = "" + h + x + " " + w + zero + r + one + d + " " + y + " " + tof;
         System.out.println(result);
     }
 }
