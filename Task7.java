@@ -4,11 +4,11 @@ public class Task7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Create a Scanner to get input from the user
 
-        System.out.print("Enter 1st number: "); // Enter a n
+        System.out.print("Enter 1st number: "); // Enter 1st number
         int num0 = scanner.nextInt();
         scanner.nextLine();
 
-        System.out.print("Enter 2nd number: "); // Enter a number 3 times!
+        System.out.print("Enter 2nd number: "); // Enter 2nd number
         int num1 = scanner.nextInt();
         scanner.nextLine();
 
