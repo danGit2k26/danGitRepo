@@ -21,5 +21,7 @@ public class Task7 {
         System.out.println("The DIFFERENCE of the two inputted numbers: " + difOfnumbers);
         System.out.println("The PRODUCT of the two inputted numbers: " + prodOfnumbers);
         System.out.println("The QUOTIENT of the two inputted numbers: " + quoOfnumbers);
+        
+        scanner.close(); // Close the Scanner
     }
 }
